@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Barrel
+  - BaseCenter
+  - Separation
+  - PauseMenu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bullet
+  - Separation
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Tilemap
+    uniqueID: 1967240681
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Gun
+    uniqueID: 296746607
+    locked: 0
+  - name: Text
+    uniqueID: 2991433109
+    locked: 0
+  - name: Crosshair
+    uniqueID: 4054168889
+    locked: 0
